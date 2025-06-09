@@ -28,7 +28,7 @@ You can modify it in `.github/workflows/run.yml`
 - [ ]  Replace markdown with GitHub pages front-end.
 
 # Content
-
+[2025-06-09](data/2025-06-09.md)
 
 # Related tools
 - ICML, ICLR, NeurIPS list: https://dw-dengwei.github.io/OpenReview-paper-list/index.html
