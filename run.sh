@@ -7,7 +7,7 @@ python filter.py --data ../data/${today}.jsonl
 python enhance.py --data ../data/${today}_filtered.jsonl
 
 cd ../to_md
-python convert.py --data ../data/${today}_AI_enhanced_${LANGUAGE}.jsonl
+python convert.py --data ../data/${today}_filtered_AI_enhanced_${LANGUAGE}.jsonl
 
 cd ..
 python update_readme.py
