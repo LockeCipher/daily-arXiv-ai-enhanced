@@ -28,6 +28,8 @@ You can modify it in `.github/workflows/run.yml`
 - [ ]  Replace markdown with GitHub pages front-end.
 
 # Content
+[2025-07-11](data/2025-07-11.md)
+
 [2025-07-10](data/2025-07-10.md)
 
 [2025-07-09](data/2025-07-09.md)
